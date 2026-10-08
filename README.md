@@ -239,4 +239,4 @@ This repository serves as the official landing page for Greenfoot. The software 
 **Get the most recent version of Greenfoot today!**
 
 ---
-**Last updated:** 2026-10-07 21:50:00 UTC
+**Last updated:** 2026-10-08 01:38:36 UTC
